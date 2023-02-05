@@ -5,4 +5,3 @@
  
 
 
-![Snake animation](https://github.com/rogeriomamoni/rogeriomamoni/blob/output/github-contribution-grid-snake2.svg)
